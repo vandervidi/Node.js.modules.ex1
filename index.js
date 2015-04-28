@@ -12,4 +12,4 @@ response.end(medals.init(response));
 
 var server = http.createServer(csCallback);
 
-server.listen(3000,'localhost');
+server.listen(8080,'localhost');
